@@ -1,0 +1,16 @@
+.board button{
+  width : 100px;
+  height : 100px;
+  background-color: gray;
+  border-radius: 50%;
+  border : 3px solid black;
+}
+body{
+  background: radial-gradient(#e66465, #9198e5);
+}
+
+
+button{
+  float : right;
+
+}
